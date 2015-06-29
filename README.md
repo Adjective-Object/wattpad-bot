@@ -7,10 +7,10 @@ A wattpad-trained rnn for making dumb videos to put on youtube.
 Very hacky, do not use.
 
 trains with [char-rnn](https://github.com/karpathy/char-rnn)  
-renders with [Spectrum.py](https://github.com/Adjective-Object/Spectrum.py)
+renders with [Spectrum.py](https://github.com/Adjective-Object/Spectrum.py)  
 uploads with [youtube-upload](https://github.com/tokland/youtube-upload)
 
-for it to even have a chance of running, you need to..
+For it to even have a chance of running, you need to..
 
 - `(sudo) pip install -r requirements.txt` for each of 
 	- wattfetcher/requirements.txt
