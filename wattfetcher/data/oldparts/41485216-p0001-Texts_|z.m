@@ -1,0 +1,3 @@
+
+As I lay in the dark,My phone goes off and the screen lights up.I grab my phone from my night table and slide to unlock it.1 message from blocked number.I think of who it could be,It could only be one person because I've only blocked one person.Zayn Malik.I slide the number and read his text.
+|I love you so much,Meredith White. Xx ZaynNumbly and irritated I type back my reply.|I hate you so much,Zayn Malik. Cx Meredith.
